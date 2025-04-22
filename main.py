@@ -84,16 +84,10 @@ def main():
 
     # --- Import và Khởi tạo Game, NNet động ---
     log.info(f"Loading game '{args.game}'...")
-    if args.game == 'othello':
-        from othello.OthelloGame import OthelloGame as Game
-        # Giả sử dùng pytorch backend cho Othello
-        from othello.pytorch.NNet import NNetWrapper as nn
-        g = Game(6) # Othello cần kích thước bàn cờ
-    elif args.game == 'chess':
-        # <<< Phần dành cho Chess >>>
+    if args.game == 'chess':
         from chess_game.ChessGame import ChessGame as Game         # Import lớp Game của bạn
         from chess_game.pytorch.NNet import NNetWrapper as nn # Import lớp NNetWrapper của bạn
-        g = Game()                                           # Khởi tạo ChessGame (không cần tham số)
+        g = Game()   # Khởi tạo ChessGame (không cần tham số)
     else:
          raise ValueError(f"Invalid game specified: {args.game}")
 
