@@ -4,7 +4,7 @@
 Xem video demo của dự án tại đây: [Link Video Demo](https://drive.google.com/drive/folders/1wFTf-neeCYESh2B-hZs7khLhzdkohFeK?usp=sharing)
 
 ## Hướng dẫn cài đặt
-
+```bash
 # Sao chép repository
 git clone (link-repository-cua-ban)
 
