@@ -3,6 +3,11 @@
 
 Xem video demo của dự án tại đây: [Link Video Demo](https://drive.google.com/drive/folders/1wFTf-neeCYESh2B-hZs7khLhzdkohFeK?usp=sharing)
 
+
+## Báo cáo Dự án
+
+Xem báo cáo chi tiết của dự án tại đây: [Link Báo Cáo](https://drive.google.com/file/d/1rEmw0wXNR0DCT6SIkLziw_jLmgHCJ0CR/view?usp=sharing)
+
 ## Hướng dẫn cài đặt
 ```bash
 # Sao chép repository
