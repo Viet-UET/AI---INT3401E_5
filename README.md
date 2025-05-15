@@ -8,6 +8,9 @@ Xem video demo của dự án tại đây: [Link Video Demo](https://drive.googl
 
 Xem báo cáo chi tiết của dự án tại đây: [Link Báo Cáo](https://drive.google.com/file/d/1rEmw0wXNR0DCT6SIkLziw_jLmgHCJ0CR/view?usp=sharing)
 
+## Đóng góp của các thành viên
+Trương Minh Việt - Mã số sinh viên: 22028314 -  100%
+
 ## Hướng dẫn cài đặt
 ```bash
 # Sao chép repository
